@@ -34,7 +34,7 @@ translate german over18check_613faf73:
 translate german over18check_3b065084:
 
     # rj "Then you can't play, sorry."
-    rj "Dann darfst du nicht mitspielen, tut mir leid."
+    rj "Dann darfst du nicht spielen, tut mir leid."
 
 # game/script.rpy:166
 translate german over18check_828f04ed:
